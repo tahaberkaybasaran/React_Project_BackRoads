@@ -34,7 +34,7 @@ const NavBar = () => {
               <li key={id}>
                 <a
                   href={href}
-                  // target="_blank"
+                  target="_blank"
                   rel="noreferrer"
                   className="nav-icon"
                 >
